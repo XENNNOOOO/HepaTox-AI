@@ -1,0 +1,1037 @@
+LTKBID,Compound Name,Severity Class,Label Section,vDILIConcern,Version
+LT00003,mercaptopurine,8,Warnings and precautions,Most-DILI-Concern,1
+LT00004,acetaminophen,5,Warnings and precautions,Most-DILI-Concern,2
+LT00006,azathioprine,5,Warnings and precautions,Most-DILI-Concern,1
+LT00009,chlorpheniramine,0,No match,No-DILI-Concern,2
+LT00011,clofibrate,3,Warnings and precautions,Less-DILI-Concern,1
+LT00013,cyclophosphamide,5,Adverse reactions,Less-DILI-Concern,1
+LT00015,dopamine,0,No match,No-DILI-Concern,2
+LT00016,estradiol,2,Adverse reactions,Less-DILI-Concern,1
+LT00018,fluoxetine,3,Adverse reactions,Less-DILI-Concern,1
+LT00020,gemfibrozil,4,Warnings and precautions,Most-DILI-Concern,1
+LT00022,indomethacin,8,Warnings and precautions,Most-DILI-Concern,1
+LT00023,ketoprofen,3,Warnings and precautions,Less-DILI-Concern,2
+LT00024,mannitol,0,No match,No-DILI-Concern,1
+LT00026,methotrexate,3,Box warning,Most-DILI-Concern,1
+LT00030,phenobarbital,3,Warnings and precautions,Less-DILI-Concern,1
+LT00032,phenytoin,8,Warnings and precautions,Most-DILI-Concern,1
+LT00034,rifampin,8,Warnings and precautions,Most-DILI-Concern,1
+LT00036,tetracycline,2,Warnings and precautions,Less-DILI-Concern,1
+LT00040,abacavir,8,Warnings and precautions,Most-DILI-Concern,1
+LT00041,aciclovir,5,Adverse reactions,Less-DILI-Concern,1
+LT00043,allopurinol,8,Warnings and precautions,Most-DILI-Concern,1
+LT00045,amineptine,8,Withdrawn,Most-DILI-Concern,1
+LT00046,amiodarone,8,Box warning,Most-DILI-Concern,1
+LT00047,amitriptyline,5,Adverse reactions,Less-DILI-Concern,2
+LT00048,amphotericin b,3,Warnings and precautions,Less-DILI-Concern,2
+LT00049,ampicillin,3,Warnings and precautions,Less-DILI-Concern,2
+LT00052,donepezil,3,Adverse reactions,Less-DILI-Concern,2
+LT00053,aspirin,0,No match,Less-DILI-Concern,2
+LT00054,aminohippurate,0,No match,No-DILI-Concern,2
+LT00056,bicalutamide,8,Warnings and precautions,Most-DILI-Concern,1
+LT00058,bupropion,5,Adverse reactions,Less-DILI-Concern,1
+LT00059,captopril,7,Adverse reactions,Less-DILI-Concern,1
+LT00060,carbamazepine,7,Warnings and precautions,Most-DILI-Concern,1
+LT00061,carboplatin,3,Warnings and precautions,Less-DILI-Concern,1
+LT00062,ceftazidime,3,Adverse reactions,Less-DILI-Concern,2
+LT00065,chenodiol,8,Warnings and precautions,Ambiguous DILI-concern,2
+LT00066,chlorcyclizine,0,No match,Less-DILI-Concern,2
+LT00067,chlorzoxazone,8,Warnings and precautions,Most-DILI-Concern,1
+LT00068,chlorpromazine,2,Adverse reactions,Less-DILI-Concern,1
+LT00071,cisplatin,3,Warnings and precautions,Less-DILI-Concern,1
+LT00074,dimercaprol,0,No match,No-DILI-Concern,2
+LT00076,colchicine,6,Adverse reactions,Ambiguous DILI-concern,1
+LT00077,corticotropin,0,No match,No-DILI-Concern,2
+LT00079,dactinomycin,8,Warnings and precautions,Most-DILI-Concern,2
+LT00080,dantrolene,8,Box warning,Most-DILI-Concern,1
+LT00081,demeclocycline,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00082,dexamethasone,3,Adverse reactions,Ambiguous DILI-concern,1
+LT00083,propoxyphene,3,Adverse reactions,Less-DILI-Concern,2
+LT00084,diclofenac,8,Warnings and precautions,Most-DILI-Concern,1
+LT00085,diflunisal,8,Warnings and precautions,Most-DILI-Concern,2
+LT00087,diphenhydramine,0,No match,No-DILI-Concern,1
+LT00091,epirubicin,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00092,erythromycin,5,Warnings and precautions,Most-DILI-Concern,1
+LT00094,etoposide,3,Adverse reactions,Less-DILI-Concern,2
+LT00095,famotidine,3,Adverse reactions,Less-DILI-Concern,1
+LT00097,felbamate,7,Box warning,Most-DILI-Concern,1
+LT00098,fenofibrate,3,Warnings and precautions,Less-DILI-Concern,1
+LT00099,fenoprofen,8,Warnings and precautions,Most-DILI-Concern,1
+LT00101,flutamide,8,Box warning,Most-DILI-Concern,1
+LT00106,hydroxyurea,8,Warnings and precautions,Most-DILI-Concern,1
+LT00107,imatinib,8,Warnings and precautions,Most-DILI-Concern,2
+LT00108,imipramine,3,Adverse reactions,Less-DILI-Concern,1
+LT00109,iproniazid,8,Withdrawn,Most-DILI-Concern,1
+LT00110,hydroxyprogesterone caproate,2,Warnings and precautions,Ambiguous DILI-concern,2
+LT00111,ketoconazole,8,Box warning,Most-DILI-Concern,1
+LT00112,labetalol,8,Warnings and precautions,Most-DILI-Concern,1
+LT00113,leflunomide,8,Box warning,Most-DILI-Concern,1
+LT00116,mefenamic acid,8,Warnings and precautions,Most-DILI-Concern,2
+LT00117,meloxicam,3,Warnings and precautions,Less-DILI-Concern,2
+LT00119,metformin,0,No match,Less-DILI-Concern,2
+LT00121,methyldopa,8,Warnings and precautions,Most-DILI-Concern,1
+LT00124,nefazodone,8,Box warning,Most-DILI-Concern,1
+LT00125,nitrofurantoin,8,Warnings and precautions,Most-DILI-Concern,1
+LT00126,olsalazine,8,Adverse reactions,Less-DILI-Concern,2
+LT00128,paroxetine,8,Adverse reactions,Less-DILI-Concern,1
+LT00129,pentamidine,3,Warnings and precautions,Less-DILI-Concern,2
+LT00130,pentobarbital,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00131,perhexiline,8,Withdrawn,Most-DILI-Concern,1
+LT00133,physostigmine,0,No match,No-DILI-Concern,2
+LT00134,pioglitazone,3,Warnings and precautions,Less-DILI-Concern,1
+LT00136,propylthiouracil,8,Box warning,Most-DILI-Concern,1
+LT00137,pseudoephedrine,0,No match,No-DILI-Concern,2
+LT00138,ranitidine,5,Adverse reactions,Less-DILI-Concern,1
+LT00139,rifabutin,5,Adverse reactions,Less-DILI-Concern,2
+LT00140,rosiglitazone,3,Warnings and precautions,Less-DILI-Concern,2
+LT00141,indocyanine green,0,No match,No-DILI-Concern,2
+LT00142,simvastatin,3,Warnings and precautions,Less-DILI-Concern,1
+LT00143,spironolactone,2,Adverse reactions,Less-DILI-Concern,1
+LT00144,stavudine,8,Box warning,Most-DILI-Concern,1
+LT00145,streptomycin,0,No match,No-DILI-Concern,1
+LT00146,sulfadiazine,3,Adverse reactions,Less-DILI-Concern,2
+LT00147,sulfasalazine,5,Warnings and precautions,Most-DILI-Concern,2
+LT00148,sulindac,8,Warnings and precautions,Most-DILI-Concern,1
+LT00152,tamoxifen,8,Warnings and precautions,Most-DILI-Concern,1
+LT00153,temozolomide,4,Adverse reactions,Less-DILI-Concern,2
+LT00154,theophylline,0,No match,No-DILI-Concern,2
+LT00155,tizanidine,8,Warnings and precautions,Most-DILI-Concern,2
+LT00156,tolcapone,8,Box warning,Most-DILI-Concern,1
+LT00158,toremifene,3,Warnings and precautions,Ambiguous DILI-concern,1
+LT00160,valproic acid,8,Box warning,Most-DILI-Concern,1
+LT00161,vancomycin,0,No match,Less-DILI-Concern,1
+LT00162,vitamin a,3,Warnings and precautions,Less-DILI-Concern,2
+LT00163,zidovudine,8,Box warning,Most-DILI-Concern,1
+LT00164,zolpidem,7,Adverse reactions,Ambiguous DILI-concern,2
+LT00165,zonisamide,2,Adverse reactions,Less-DILI-Concern,2
+LT00166,pyrazinamide,3,Warnings and precautions,Less-DILI-Concern,1
+LT00167,finasteride,0,No match,Less-DILI-Concern,2
+LT00168,troglitazone,8,Withdrawn,Most-DILI-Concern,1
+LT00172,fluvastatin,3,Warnings and precautions,Less-DILI-Concern,2
+LT00173,glimepiride,7,Adverse reactions,Less-DILI-Concern,1
+LT00174,venlafaxine,7,Adverse reactions,Less-DILI-Concern,1
+LT00175,amlodipine,5,Adverse reactions,Less-DILI-Concern,2
+LT00177,vinblastine,0,No match,No-DILI-Concern,2
+LT00178,ciprofloxacin,7,Warnings and precautions,Most-DILI-Concern,1
+LT00179,fluconazole,8,Warnings and precautions,Most-DILI-Concern,1
+LT00180,prednisone,3,Adverse reactions,Less-DILI-Concern,2
+LT00181,lorazepam,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00182,itraconazole,8,Warnings and precautions,Most-DILI-Concern,2
+LT00183,raloxifene,0,No match,No-DILI-Concern,2
+LT00184,mifepristone,0,No match,No-DILI-Concern,2
+LT00185,clomipramine,8,Warnings and precautions,Most-DILI-Concern,2
+LT00186,pravastatin,3,Warnings and precautions,Less-DILI-Concern,1
+LT00187,clarithromycin,8,Warnings and precautions,Most-DILI-Concern,2
+LT00188,hydrocortisone,0,No match,No-DILI-Concern,2
+LT00192,progesterone,2,Adverse reactions,Less-DILI-Concern,2
+LT00194,ergocalciferol,0,No match,No-DILI-Concern,1
+LT00199,ibuprofen,3,Warnings and precautions,Less-DILI-Concern,1
+LT00200,isoproterenol,0,No match,No-DILI-Concern,1
+LT00204,ketorolac,3,Warnings and precautions,Less-DILI-Concern,1
+LT00205,promethazine,5,Adverse reactions,Less-DILI-Concern,2
+LT00206,omeprazole,4,Adverse reactions,Less-DILI-Concern,2
+LT00207,carvedilol,3,Adverse reactions,Less-DILI-Concern,2
+LT00209,cytarabine,3,Box warning,Most-DILI-Concern,1
+LT00211,norethindrone,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00213,tromethamine,6,Adverse reactions,Ambiguous DILI-concern,2
+LT00216,pergolide,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00217,nisoldipine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00219,citalopram,7,Adverse reactions,Less-DILI-Concern,2
+LT00220,megestrol,1,Adverse reactions,Ambiguous DILI-concern,2
+LT00222,methyltestosterone,2,Warnings and precautions,Less-DILI-Concern,2
+LT00223,testosterone,8,Warnings and precautions,Most-DILI-Concern,2
+LT00225,praziquantel,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00227,ticlopidine,4,Warnings and precautions,Most-DILI-Concern,1
+LT00230,diazepam,4,Adverse reactions,Ambiguous DILI-concern,2
+LT00233,clomiphene,3,Warnings and precautions,Less-DILI-Concern,2
+LT00234,isotretinoin,5,Warnings and precautions,Most-DILI-Concern,1
+LT00235,oxymetholone,7,Box warning,Most-DILI-Concern,1
+LT00240,etodolac,8,Warnings and precautions,Most-DILI-Concern,1
+LT00243,glipizide,3,Adverse reactions,Less-DILI-Concern,2
+LT00246,pemoline,8,Withdrawn,Most-DILI-Concern,1
+LT00248,clotrimazole,3,Warnings and precautions,Less-DILI-Concern,1
+LT00252,celecoxib,3,Warnings and precautions,Less-DILI-Concern,2
+LT00256,amoxapine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00257,iothalamate sodium,0,No match,No-DILI-Concern,2
+LT00258,atorvastatin,5,Warnings and precautions,Most-DILI-Concern,2
+LT00259,olanzapine,3,Adverse reactions,Less-DILI-Concern,2
+LT00260,nevirapine,8,Box warning,Most-DILI-Concern,1
+LT00261,primidone,0,No match,No-DILI-Concern,1
+LT00262,vinorelbine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00263,anastrozole,3,Adverse reactions,Less-DILI-Concern,2
+LT00264,rabeprazole,3,Adverse reactions,Less-DILI-Concern,2
+LT00265,azithromycin,7,Adverse reactions,Less-DILI-Concern,2
+LT00266,tolazamide,2,Adverse reactions,Less-DILI-Concern,2
+LT00267,quetiapine,3,Warnings and precautions,Less-DILI-Concern,2
+LT00270,famciclovir,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00277,atenolol,4,Adverse reactions,Less-DILI-Concern,2
+LT00278,benzbromarone,8,Withdrawn,Most-DILI-Concern,1
+LT00279,bromocriptine,3,Warnings and precautions,Less-DILI-Concern,2
+LT00280,busulfan,8,Warnings and precautions,Most-DILI-Concern,1
+LT00286,chlorambucil,3,Warnings and precautions,Less-DILI-Concern,2
+LT00287,clozapine,5,Warnings and precautions,Most-DILI-Concern,1
+LT00288,dacarbazine,6,Box warning,Most-DILI-Concern,1
+LT00289,dapsone,3,Warnings and precautions,Less-DILI-Concern,2
+LT00292,digoxin,0,No match,No-DILI-Concern,1
+LT00294,dipyridamole,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00295,disulfiram,8,Warnings and precautions,Most-DILI-Concern,1
+LT00296,enalapril,7,Adverse reactions,Less-DILI-Concern,1
+LT00298,flurbiprofen,3,Warnings and precautions,Ambiguous DILI-concern,1
+LT00299,furosemide,2,Adverse reactions,Ambiguous DILI-concern,1
+LT00300,gabapentin,3,Warnings and precautions,Less-DILI-Concern,2
+LT00302,glibenclamide,3,Adverse reactions,Less-DILI-Concern,2
+LT00306,isoniazid,8,Box warning,Most-DILI-Concern,1
+LT00307,lansoprazole,3,Adverse reactions,Less-DILI-Concern,2
+LT00308,mebendazole,3,Warnings and precautions,Less-DILI-Concern,1
+LT00309,metoprolol,5,Adverse reactions,Less-DILI-Concern,1
+LT00310,mycophenolic acid,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00311,naltrexone,3,Warnings and precautions,Ambiguous DILI-concern,1
+LT00312,niacin,7,Warnings and precautions,Most-DILI-Concern,1
+LT00313,nifedipine,3,Warnings and precautions,Less-DILI-Concern,1
+LT00314,nimesulide,8,Withdrawn,Most-DILI-Concern,1
+LT00315,nizatidine,5,Adverse reactions,Less-DILI-Concern,1
+LT00322,methenamine hippurate,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00327,dextrose,0,No match,No-DILI-Concern,2
+LT00328,cholestyramine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00330,sodium lactate,0,No match,No-DILI-Concern,2
+LT00332,verapamil,3,Warnings and precautions,Less-DILI-Concern,1
+LT00335,doxorubicin,3,Adverse reactions,Less-DILI-Concern,2
+LT00338,tretinoin,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00340,isorbide mononitrate,3,Adverse reactions,Ambiguous DILI-concern,1
+LT00341,clorazepate,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00349,protirelin,0,No match,No-DILI-Concern,2
+LT00350,sincalide,0,No match,No-DILI-Concern,2
+LT00355,secretin,0,No match,No-DILI-Concern,2
+LT00358,sucralfate,0,No match,No-DILI-Concern,2
+LT00361,cupric chloride,0,No match,No-DILI-Concern,2
+LT00375,trientine hydrochloride,1,No match,No-DILI-Concern,2
+LT00379,chlorpropamide,2,Adverse reactions,Less-DILI-Concern,1
+LT00380,cyclosporine,7,Warnings and precautions,Most-DILI-Concern,1
+LT00381,enalaprilat,7,Adverse reactions,Ambiguous DILI-concern,2
+LT00385,decitabine,4,Adverse reactions,Ambiguous DILI-concern,2
+LT00386,deferoxamine,0,No match,Less-DILI-Concern,1
+LT00393,doxycycline,3,Adverse reactions,Less-DILI-Concern,1
+LT00394,exemestane,4,Warnings and precautions,Most-DILI-Concern,2
+LT00397,felodipine,3,Adverse reactions,Less-DILI-Concern,2
+LT00399,fludrocortisone,0,No match,No-DILI-Concern,2
+LT00400,fluphenazine,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00401,fulvestrant,7,Adverse reactions,Ambiguous DILI-concern,2
+LT00402,gefitinib,4,Warnings and precautions,Most-DILI-Concern,2
+LT00405,haloperidol,5,Adverse reactions,Less-DILI-Concern,1
+LT00414,mesalazine,7,Adverse reactions,Less-DILI-Concern,2
+LT00416,minocycline,8,Warnings and precautions,Most-DILI-Concern,1
+LT00419,ioversol,0,No match,No-DILI-Concern,2
+LT00426,histrelin acetate,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00429,oxaprozin,3,Warnings and precautions,Less-DILI-Concern,2
+LT00430,paclitaxel,4,Adverse reactions,Less-DILI-Concern,2
+LT00433,phentolamine,0,No match,No-DILI-Concern,1
+LT00435,prazosin,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00437,prochlorperazine,2,Adverse reactions,Less-DILI-Concern,2
+LT00438,corticorelin ovine triflutate,0,No match,No-DILI-Concern,2
+LT00439,sodium thiosulfate,0,No match,No-DILI-Concern,2
+LT00443,sirolimus,8,Adverse reactions,Less-DILI-Concern,2
+LT00448,tacrolimus,5,Adverse reactions,Less-DILI-Concern,1
+LT00450,thalidomide,4,Adverse reactions,Less-DILI-Concern,2
+LT00451,thioridazine,5,Adverse reactions,Less-DILI-Concern,2
+LT00452,thioguanine,2,Warnings and precautions,Less-DILI-Concern,1
+LT00453,tolbutamide,2,Adverse reactions,Ambiguous DILI-concern,1
+LT00455,topiramate,3,Adverse reactions,Less-DILI-Concern,2
+LT00457,trifluoperazine,2,Warnings and precautions,Ambiguous DILI-concern,1
+LT00460,triptorelin pamoate,3,Adverse reactions,Less-DILI-Concern,2
+LT00461,alatrofloxacin mesylate,8,Withdrawn,Most-DILI-Concern,1
+LT00462,vorinostat,0,No match,No-DILI-Concern,2
+LT00463,sacrosidase,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00464,doxercalciferol,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00465,nesiritide,0,No match,No-DILI-Concern,2
+LT00475,ganirelix acetate,0,No match,No-DILI-Concern,2
+LT00477,gemtuzumab ozogamicin,8,Box warning,Most-DILI-Concern,1
+LT00478,methylprednisolone,3,Adverse reactions,Less-DILI-Concern,2
+LT00480,gamma hydroxybutyric acid,0,No match,No-DILI-Concern,2
+LT00482,l-glutamine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00484,cetrorelix,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00485,tegaserod,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00488,penicillamine,2,Warnings and precautions,Less-DILI-Concern,1
+LT00492,pramlintide,0,No match,No-DILI-Concern,2
+LT00493,lanthanum carbonate,0,No match,No-DILI-Concern,2
+LT00494,fomepizole,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00498,acetazolamide,8,Warnings and precautions,Most-DILI-Concern,2
+LT00499,albendazole,7,Warnings and precautions,Most-DILI-Concern,2
+LT00501,alprazolam,7,Adverse reactions,Less-DILI-Concern,2
+LT00502,altretamine,2,Adverse reactions,Ambiguous DILI-concern,1
+LT00503,amantadine,3,Warnings and precautions,Ambiguous DILI-concern,1
+LT00505,4-aminosalicylic acid,5,Warnings and precautions,Most-DILI-Concern,1
+LT00507,amoxicillin,5,Adverse reactions,Less-DILI-Concern,1
+LT00511,atropine,0,No match,No-DILI-Concern,1
+LT00512,balsalazide,8,Adverse reactions,Ambiguous DILI-concern,2
+LT00513,benoxaprofen,8,Withdrawn,Most-DILI-Concern,1
+LT00515,emtricitabine,2,Warnings and precautions,Ambiguous DILI-concern,2
+LT00516,trospium,0,No match,No-DILI-Concern,2
+LT00519,bromfenac,8,Withdrawn,Most-DILI-Concern,1
+LT00528,gadofosveset trisodium,0,No match,No-DILI-Concern,2
+LT00532,clonazepam,3,Adverse reactions,Less-DILI-Concern,2
+LT00537,exenatide,0,No match,No-DILI-Concern,2
+LT00538,entecavir,7,Warnings and precautions,Ambiguous DILI-concern,2
+LT00539,danazol,8,Box warning,Most-DILI-Concern,1
+LT00540,daunorubicin,0,No match,No-DILI-Concern,2
+LT00545,dimenhydrinate,0,No match,No-DILI-Concern,2
+LT00547,doxapram,0,No match,No-DILI-Concern,2
+LT00554,febuxostat,8,Warnings and precautions,Most-DILI-Concern,2
+LT00557,granisetron,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00558,griseofulvin,8,Warnings and precautions,Most-DILI-Concern,1
+LT00559,hydralazine,3,Adverse reactions,Less-DILI-Concern,2
+LT00560,ibufenac,8,Withdrawn,Most-DILI-Concern,1
+LT00562,ifosfamide,4,Adverse reactions,Less-DILI-Concern,1
+LT00563,deferasirox,7,Box warning,Most-DILI-Concern,1
+LT00564,rufinamide,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00565,sunitinib,8,Box warning,Most-DILI-Concern,1
+LT00568,ivermectin,3,Adverse reactions,Less-DILI-Concern,2
+LT00569,lamivudine,3,Warnings and precautions,Less-DILI-Concern,1
+LT00570,methylnaltrexone bromide,0,No match,No-DILI-Concern,2
+LT00571,lisdexamfetamine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00572,letrozole,2,Warnings and precautions,Less-DILI-Concern,2
+LT00573,desvenlafaxine,3,Adverse reactions,Less-DILI-Concern,2
+LT00574,lomefloxacin,4,Adverse reactions,Ambiguous DILI-concern,2
+LT00575,lomustine,3,Warnings and precautions,Less-DILI-Concern,2
+LT00576,lovastatin,3,Warnings and precautions,Less-DILI-Concern,1
+LT00577,telbivudine,2,Warnings and precautions,Ambiguous DILI-concern,2
+LT00580,methimazole,8,Warnings and precautions,Most-DILI-Concern,1
+LT00581,methocarbamol,5,Adverse reactions,Ambiguous DILI-concern,2
+LT00584,metronidazole,3,No match,Less-DILI-Concern,1
+LT00587,minoxidil,0,No match,No-DILI-Concern,1
+LT00588,mitomycin,0,No match,Less-DILI-Concern,1
+LT00589,modafinil,3,Warnings and precautions,Less-DILI-Concern,2
+LT00590,fesoterodine,0,No match,No-DILI-Concern,2
+LT00592,naloxone,0,No match,No-DILI-Concern,2
+LT00593,naproxen,3,Warnings and precautions,Less-DILI-Concern,1
+LT00594,nateglinide,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00595,neomycin,0,No match,No-DILI-Concern,1
+LT00600,levocetirizine dihydrochloride,4,Adverse reactions,Less-DILI-Concern,2
+LT00602,nystatin,0,No match,No-DILI-Concern,1
+LT00605,oxytetracycline,2,Warnings and precautions,Ambiguous DILI-concern,1
+LT00606,pantoprazole,3,Adverse reactions,Less-DILI-Concern,2
+LT00607,nilotinib,4,Warnings and precautions,Ambiguous DILI-concern,2
+LT00610,pralidoxime,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00612,prednisolone,3,Adverse reactions,Less-DILI-Concern,1
+LT00613,primaquine,0,No match,No-DILI-Concern,1
+LT00614,procarbazine,3,Warnings and precautions,Less-DILI-Concern,2
+LT00617,lanreotide acetate,2,Adverse reactions,Ambiguous DILI-concern,2
+LT00618,ambrisentan,7,Adverse reactions,Ambiguous DILI-concern,1
+LT00623,doripenem,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00624,secobarbital,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00625,sertraline,3,Adverse reactions,Less-DILI-Concern,1
+LT00627,sotalol,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00628,streptozocin,3,Warnings and precautions,Ambiguous DILI-concern,1
+LT00632,sulfathiazole,8,Withdrawn,Most-DILI-Concern,1
+LT00634,terbinafine,8,Warnings and precautions,Most-DILI-Concern,1
+LT00635,thiabendazole,7,Warnings and precautions,Most-DILI-Concern,2
+LT00636,ticrynafen,8,Withdrawn,Most-DILI-Concern,1
+LT00637,tinidazole,3,Adverse reactions,Less-DILI-Concern,2
+LT00639,torasemide,2,Warnings and precautions,Ambiguous DILI-concern,2
+LT00640,maraviroc,3,Box warning,Most-DILI-Concern,1
+LT00642,raltegravir,7,Warnings and precautions,Most-DILI-Concern,2
+LT00644,clevidipine,0,No match,No-DILI-Concern,2
+LT00645,trovafloxacin,8,Withdrawn,Most-DILI-Concern,1
+LT00646,regadenoson,0,No match,No-DILI-Concern,2
+LT00647,warfarin,5,Adverse reactions,Less-DILI-Concern,1
+LT00648,zaleplon,0,No match,No-DILI-Concern,2
+LT00649,zileuton,5,Warnings and precautions,Most-DILI-Concern,1
+LT00650,ferumoxytol,0,No match,No-DILI-Concern,2
+LT00653,etravirine,8,Warnings and precautions,Most-DILI-Concern,2
+LT00654,iloperidone,2,Adverse reactions,Ambiguous DILI-concern,2
+LT00655,degarelix,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00656,silodosin,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00658,fospropofol,0,No match,Less-DILI-Concern,2
+LT00659,bendamustine,0,No match,No-DILI-Concern,2
+LT00660,lacosamide,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00661,tolvaptan,8,Warnings and precautions,Most-DILI-Concern,2
+LT00663,eltrombopag olamine,4,Box warning,Most-DILI-Concern,1
+LT00664,tapentadol,0,No match,No-DILI-Concern,2
+LT00665,prasugrel hydrochloride,0,No match,Less-DILI-Concern,2
+LT00667,saxagliptin,0,No match,No-DILI-Concern,2
+LT00668,pitavastatin,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00669,romidepsin,0,No match,No-DILI-Concern,2
+LT00670,fenofibric acid,2,Warnings and precautions,Ambiguous DILI-concern,2
+LT00671,dronedarone,7,Warnings and precautions,Most-DILI-Concern,2
+LT00672,pazopanib,8,Box warning,Most-DILI-Concern,1
+LT00673,pralatrexate,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00674,pancrelipase,0,No match,No-DILI-Concern,2
+LT00677,estropipate,2,Adverse reactions,Ambiguous DILI-concern,2
+LT00682,dexchlorpheniramine,0,No match,No-DILI-Concern,2
+LT00683,ecallantide,0,No match,No-DILI-Concern,2
+LT00684,divalproex sodium,8,Box warning,Most-DILI-Concern,2
+LT00686,lumiracoxib,8,Withdrawn,Most-DILI-Concern,1
+LT00687,tasosartan,8,Discontinued,Most-DILI-Concern,1
+LT00690,oxyphenisatin,8,Withdrawn,Most-DILI-Concern,1
+LT00691,tilbroquinol,8,Withdrawn,Most-DILI-Concern,1
+LT00692,alclofenac,8,Withdrawn,Most-DILI-Concern,1
+LT00693,aplaviroc,8,Discontinued,Most-DILI-Concern,1
+LT00694,clomacran,8,Withdrawn,Most-DILI-Concern,1
+LT00695,dermatan,8,Discontinued,Most-DILI-Concern,1
+LT00696,isaxonine,8,Withdrawn,Most-DILI-Concern,1
+LT00697,pipamazine,8,Withdrawn,Most-DILI-Concern,1
+LT00698,pralnacasan,8,Discontinued,Most-DILI-Concern,1
+LT00699,sulfacarbamide,8,Withdrawn,Most-DILI-Concern,1
+LT00700,triacetyldiphenolisatin,8,Withdrawn,Most-DILI-Concern,1
+LT00701,fiduxosin,8,Discontinued,Most-DILI-Concern,1
+LT00702,pafuraidine,8,Discontinued,Most-DILI-Concern,1
+LT00703,phenoxypropazine,8,Withdrawn,Most-DILI-Concern,1
+LT00706,histamine diphosphate,0,No match,No-DILI-Concern,2
+LT00707,butabarbital,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00708,guanidine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00711,aminophylline,0,No match,No-DILI-Concern,2
+LT00713,meperidine,0,No match,No-DILI-Concern,2
+LT00716,methamphetamine,0,No match,No-DILI-Concern,2
+LT00723,methadone,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00725,hyaluronidase,0,No match,No-DILI-Concern,2
+LT00727,doxylamine,0,No match,No-DILI-Concern,2
+LT00728,protamine sulfate,0,No match,No-DILI-Concern,2
+LT00730,bethanechol,0,No match,No-DILI-Concern,1
+LT00734,cortisone acetate,0,No match,No-DILI-Concern,2
+LT00737,dicyclomine,0,No match,No-DILI-Concern,2
+LT00738,norepinephrine,0,No match,No-DILI-Concern,1
+LT00740,dyphylline,0,No match,No-DILI-Concern,2
+LT00742,epinephrine,0,No match,No-DILI-Concern,1
+LT00749,succinylcholine,0,No match,No-DILI-Concern,1
+LT00751,thyrotropin alfa,0,No match,No-DILI-Concern,2
+LT00752,levorphanol,0,No match,No-DILI-Concern,2
+LT00753,propantheline,0,No match,No-DILI-Concern,2
+LT00759,carbinoxamine,0,No match,No-DILI-Concern,1
+LT00760,edetic acid,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00774,diatrizoate,0,No match,No-DILI-Concern,2
+LT00780,phytonadione,0,No match,No-DILI-Concern,2
+LT00781,mecamylamine,0,No match,No-DILI-Concern,2
+LT00783,liothyronine,0,No match,No-DILI-Concern,1
+LT00787,methsuximide,0,No match,No-DILI-Concern,2
+LT00790,mepenzolate,0,No match,No-DILI-Concern,2
+LT00792,meclizine,0,No match,No-DILI-Concern,1
+LT00795,ethotoin,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00798,triprolidine,0,No match,No-DILI-Concern,2
+LT00800,benzonatate,0,No match,Less-DILI-Concern,1
+LT00801,Sodium polystyrene sulfonate,0,No match,No-DILI-Concern,2
+LT00802,dichlorphenamide,0,No match,No-DILI-Concern,2
+LT00803,methohexital,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00805,phentermine,0,No match,Less-DILI-Concern,1
+LT00806,diethylpropion,0,No match,No-DILI-Concern,2
+LT00808,oxymorphone,0,No match,No-DILI-Concern,2
+LT00810,dexbrompheniramine,0,No match,No-DILI-Concern,2
+LT00814,hydroflumethiazide,2,Adverse reactions,Ambiguous DILI-concern,2
+LT00817,biperiden,0,No match,No-DILI-Concern,1
+LT00818,isosorbide dinitrate,0,No match,No-DILI-Concern,2
+LT00822,mepivacaine,0,No match,No-DILI-Concern,2
+LT00825,bendroflumethiazide,5,Adverse reactions,Less-DILI-Concern,2
+LT00826,phendimetrazine,0,No match,No-DILI-Concern,1
+LT00827,oxytocin,0,No match,No-DILI-Concern,2
+LT00829,guanethidine,0,No match,No-DILI-Concern,1
+LT00831,ethosuximide,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00832,benzphetamine,0,No match,No-DILI-Concern,1
+LT00833,methyclothiazide,2,Adverse reactions,Ambiguous DILI-concern,2
+LT00836,glycopyrrolate,0,No match,No-DILI-Concern,2
+LT00838,metyrapone,0,No match,No-DILI-Concern,1
+LT00841,metaxalone,5,Adverse reactions,Less-DILI-Concern,2
+LT00845,oxandrolone,8,Box warning,Most-DILI-Concern,1
+LT00847,oxazepam,5,Adverse reactions,Ambiguous DILI-concern,2
+LT00848,protriptyline,0,No match,No-DILI-Concern,2
+LT00855,cosyntropin,0,No match,No-DILI-Concern,2
+LT00857,flavoxate,0,No match,No-DILI-Concern,1
+LT00859,ketamine,0,No match,Less-DILI-Concern,1
+LT00865,diazoxide,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00867,pancuronium,0,No match,No-DILI-Concern,2
+LT00869,pentagastrin,0,No match,No-DILI-Concern,2
+LT00870,dextroamphetamine,0,No match,No-DILI-Concern,2
+LT00877,terbutaline,3,Adverse reactions,Less-DILI-Concern,2
+LT00878,calcitonin salmon,0,No match,No-DILI-Concern,2
+LT00879,pentetic acid,0,No match,No-DILI-Concern,2
+LT00880,nitroprusside,0,No match,No-DILI-Concern,2
+LT00881,colestipol,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00886,lactulose,0,No match,No-DILI-Concern,1
+LT00888,somatropin recombinant,0,No match,No-DILI-Concern,2
+LT00894,fluorescein,0,No match,No-DILI-Concern,2
+LT00895,metyrosine,0,No match,No-DILI-Concern,1
+LT00896,desmopressin,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00898,carboprost tromethamine,0,No match,No-DILI-Concern,2
+LT00899,calcitriol,0,No match,No-DILI-Concern,2
+LT00905,morphine,0,No match,No-DILI-Concern,2
+LT00909,marinol,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00910,nabilone,0,No match,No-DILI-Concern,2
+LT00913,acetohydroxamic acid,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00916,vecuronium,0,No match,No-DILI-Concern,2
+LT00917,atracurium,0,No match,No-DILI-Concern,1
+LT00919,hydromorphone,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00920,sufentanil,0,No match,No-DILI-Concern,2
+LT00922,misoprostol,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00923,tranexamic acid,0,No match,No-DILI-Concern,1
+LT00925,alfentanil,0,No match,No-DILI-Concern,2
+LT00926,ethanolamine oleate,0,No match,No-DILI-Concern,1
+LT00928,rubidium chloride rb-82,0,No match,No-DILI-Concern,2
+LT00929,urofollitropin,0,No match,No-DILI-Concern,2
+LT00931,milrinone,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00932,teriparatide,0,No match,No-DILI-Concern,2
+LT00933,l-cysteine,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00935,gadopentetate dimeglumine,0,No match,No-DILI-Concern,2
+LT00937,rimantadine,0,No match,No-DILI-Concern,2
+LT00939,goserelin,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00941,pegademase bovine,0,No match,No-DILI-Concern,2
+LT00944,fenoldopam,0,No match,No-DILI-Concern,2
+LT00946,metoprolol succinate,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00947,calcium acetate,0,No match,No-DILI-Concern,2
+LT00950,mivacurium,0,No match,No-DILI-Concern,2
+LT00951,gadodiamide,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00952,gadoteridol,0,No match,No-DILI-Concern,2
+LT00954,enoxaparin,3,Adverse reactions,Less-DILI-Concern,2
+LT00955,perindopril,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00956,pentosan polysulfate,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00957,rocuronium,0,No match,No-DILI-Concern,2
+LT00961,dalteparin sodium,3,Adverse reactions,Less-DILI-Concern,2
+LT00962,aprotinin,7,Adverse reactions,Ambiguous DILI-concern,2
+LT00964,anagrelide,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT00966,ferumoxsil,0,No match,No-DILI-Concern,2
+LT00967,ferumoxides,0,No match,No-DILI-Concern,2
+LT00969,vigabatrin,2,Adverse reactions,Ambiguous DILI-concern,2
+LT00971,epoprostenol,7,Adverse reactions,Ambiguous DILI-concern,2
+LT00972,porfimer,0,No match,No-DILI-Concern,2
+LT00973,tinzaparin,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00974,ibutilide,0,No match,No-DILI-Concern,2
+LT00978,cisatracurium besylate,0,No match,No-DILI-Concern,2
+LT00979,oxycodone,0,No match,No-DILI-Concern,2
+LT00980,alendronate,0,No match,Less-DILI-Concern,1
+LT00982,tamsulosin,0,No match,Less-DILI-Concern,1
+LT00985,glatiramer acetate,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00986,dolasetron,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00987,remifentanil,3,Adverse reactions,Less-DILI-Concern,2
+LT00988,sibutramine,4,Adverse reactions,Less-DILI-Concern,2
+LT00989,tiagabine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT00990,ropinirole,4,Adverse reactions,Less-DILI-Concern,2
+LT00991,pramipexole,2,Adverse reactions,Ambiguous DILI-concern,2
+LT00992,miglitol,0,No match,No-DILI-Concern,2
+LT00995,polyethylene glycol 3350,0,No match,No-DILI-Concern,2
+LT00996,delavirdine,5,Adverse reactions,Ambiguous DILI-concern,2
+LT00998,tiludronate,0,No match,No-DILI-Concern,2
+LT00999,eptifibatide,0,No match,No-DILI-Concern,2
+LT01001,eprosartan,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01002,repaglinide,5,Adverse reactions,Less-DILI-Concern,2
+LT01005,irbesartan,5,Adverse reactions,Less-DILI-Concern,2
+LT01007,naratriptan,4,Adverse reactions,Ambiguous DILI-concern,2
+LT01010,zolmitriptan,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01011,tolterodine,0,No match,No-DILI-Concern,2
+LT01012,nelfinavir,3,Adverse reactions,Less-DILI-Concern,2
+LT01013,lepirudin,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01015,paricalcitol,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01016,rivastigmine,3,Adverse reactions,Less-DILI-Concern,2
+LT01017,ziprasidone,3,Adverse reactions,Less-DILI-Concern,2
+LT01020,risedronate,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01022,candesartan,3,Adverse reactions,Less-DILI-Concern,2
+LT01023,clopidogrel,7,Adverse reactions,Less-DILI-Concern,2
+LT01025,cilostazol,5,Adverse reactions,Ambiguous DILI-concern,2
+LT01026,rizatriptan,0,No match,No-DILI-Concern,2
+LT01027,bivalirudin,0,No match,No-DILI-Concern,2
+LT01028,azacitidine,8,Warnings and precautions,Ambiguous DILI-concern,2
+LT01029,fluorouracil,0,No match,Less-DILI-Concern,2
+LT01030,argatroban,0,No match,No-DILI-Concern,2
+LT01033,sildenafil,3,Adverse reactions,Less-DILI-Concern,2
+LT01034,acarbose,8,Warnings and precautions,Most-DILI-Concern,1
+LT01035,acebutolol,3,Adverse reactions,Less-DILI-Concern,2
+LT01037,tirofiban,0,No match,No-DILI-Concern,2
+LT01039,sevelamer,0,No match,No-DILI-Concern,2
+LT01040,dofetilide,0,No match,No-DILI-Concern,2
+LT01041,acetylcysteine,0,No match,No-DILI-Concern,2
+LT01042,acitretin,5,Box warning,Most-DILI-Concern,1
+LT01044,gadoversetamide,0,No match,No-DILI-Concern,2
+LT01047,adenosine,0,No match,No-DILI-Concern,2
+LT01048,cevimeline,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01051,salbutamol,0,No match,No-DILI-Concern,1
+LT01053,almotriptan,0,No match,No-DILI-Concern,2
+LT01054,frovatriptan,0,No match,No-DILI-Concern,2
+LT01055,amprenavir,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01056,oxcarbazepine,3,Warnings and precautions,Less-DILI-Concern,2
+LT01057,rifapentine,4,Warnings and precautions,Ambiguous DILI-concern,2
+LT01059,levetiracetam,8,Adverse reactions,Less-DILI-Concern,2
+LT01060,alpidem,8,Withdrawn,Most-DILI-Concern,1
+LT01063,dexmedetomidine,4,Adverse reactions,Ambiguous DILI-concern,2
+LT01064,bexarotene,8,Warnings and precautions,Most-DILI-Concern,2
+LT01065,perflutren,0,No match,No-DILI-Concern,2
+LT01067,amifostine,0,No match,No-DILI-Concern,1
+LT01068,amikacin,0,No match,No-DILI-Concern,2
+LT01069,pegvisomant,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01070,alosetron,4,Adverse reactions,Less-DILI-Concern,2
+LT01071,aminocaproic acid,0,No match,No-DILI-Concern,2
+LT01072,levothyroxine,3,Adverse reactions,Less-DILI-Concern,2
+LT01075,verteporfin,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01076,amrinone,5,Adverse reactions,Ambiguous DILI-concern,2
+LT01077,linezolid,3,Adverse reactions,Less-DILI-Concern,2
+LT01080,colesevelam,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01082,choriogonadotropin alfa,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01084,gemifloxacin,3,Warnings and precautions,Less-DILI-Concern,2
+LT01085,desloratadine,3,Adverse reactions,Less-DILI-Concern,2
+LT01086,galantamine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01087,cefditoren,2,Adverse reactions,Ambiguous DILI-concern,2
+LT01088,zoledronate,0,No match,Less-DILI-Concern,2
+LT01089,caspofungin,7,Warnings and precautions,Ambiguous DILI-concern,2
+LT01092,nitisinone,7,Adverse reactions,Ambiguous DILI-concern,2
+LT01093,arsenic trioxide,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01096,atovaquone,8,Warnings and precautions,Ambiguous DILI-concern,2
+LT01097,voriconazole,8,Warnings and precautions,Most-DILI-Concern,2
+LT01100,guaifenesin,0,No match,No-DILI-Concern,2
+LT01102,olmesartan,4,Adverse reactions,Ambiguous DILI-concern,2
+LT01107,alfuzosin,5,Adverse reactions,Less-DILI-Concern,2
+LT01109,valganciclovir,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01110,aztreonam,5,Adverse reactions,Ambiguous DILI-concern,2
+LT01112,dutasteride,0,No match,No-DILI-Concern,2
+LT01113,baclofen,3,Adverse reactions,Less-DILI-Concern,2
+LT01116,benazepril,4,Adverse reactions,Less-DILI-Concern,2
+LT01117,bendazac,8,Withdrawn,Most-DILI-Concern,1
+LT01120,benzarone,8,Withdrawn,Most-DILI-Concern,1
+LT01121,benziodarone,8,Withdrawn,Most-DILI-Concern,1
+LT01122,ertapenem,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01123,benztropine,0,No match,No-DILI-Concern,1
+LT01125,fondaparinux sodium,3,Adverse reactions,Less-DILI-Concern,2
+LT01126,miglustat,0,No match,No-DILI-Concern,2
+LT01127,gadobenate dimeglumine,0,No match,No-DILI-Concern,2
+LT01128,rifaximin,7,Adverse reactions,Ambiguous DILI-concern,2
+LT01129,tadalafil,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01130,palonosetron,4,Adverse reactions,Ambiguous DILI-concern,2
+LT01132,betaxolol,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01135,vardenafil,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01136,bisoprolol,3,Adverse reactions,Ambiguous DILI-concern,1
+LT01138,bleomycin,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01139,atomoxetine,8,Warnings and precautions,Most-DILI-Concern,2
+LT01140,bosentan,7,Box warning,Most-DILI-Concern,1
+LT01141,acamprosate,3,Adverse reactions,Less-DILI-Concern,2
+LT01143,aripiprazole,5,Adverse reactions,Ambiguous DILI-concern,2
+LT01144,budesonide,0,No match,No-DILI-Concern,2
+LT01145,bumetanide,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01148,buspirone,3,Adverse reactions,Ambiguous DILI-concern,1
+LT01149,eplerenone,4,Adverse reactions,Ambiguous DILI-concern,2
+LT01151,butorphanol,0,No match,No-DILI-Concern,2
+LT01152,cabergoline,0,No match,No-DILI-Concern,2
+LT01153,ezetimibe,3,Warnings and precautions,Less-DILI-Concern,2
+LT01154,pregabalin,0,No match,Less-DILI-Concern,2
+LT01155,adefovir,2,Warnings and precautions,Less-DILI-Concern,2
+LT01156,ibandronate,0,No match,No-DILI-Concern,2
+LT01157,pemetrexed,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01159,carbenicillin,3,Warnings and precautions,Less-DILI-Concern,2
+LT01160,carbidopa,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01161,eszopiclone,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01166,cefaclor,3,Adverse reactions,Less-DILI-Concern,2
+LT01167,cefadroxil,7,Adverse reactions,Less-DILI-Concern,2
+LT01169,enfuvirtide,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01171,cefazolin,3,Adverse reactions,Less-DILI-Concern,2
+LT01172,cefepime,3,Adverse reactions,Less-DILI-Concern,2
+LT01173,cefixime,4,Adverse reactions,Ambiguous DILI-concern,2
+LT01176,cefoperazone,3,Adverse reactions,Less-DILI-Concern,2
+LT01177,cefotaxime,5,Adverse reactions,Less-DILI-Concern,2
+LT01178,cefotetan,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01179,cefoxitin,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01180,cefpodoxime,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01181,oxaliplatin,4,Warnings and precautions,Most-DILI-Concern,2
+LT01182,cefprozil,4,Adverse reactions,Less-DILI-Concern,2
+LT01183,ceftibuten,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01184,nitazoxanide,0,No match,No-DILI-Concern,2
+LT01185,ceftriaxone,4,Adverse reactions,Less-DILI-Concern,2
+LT01186,cefuroxime,5,Adverse reactions,Less-DILI-Concern,2
+LT01187,micafungin,7,Warnings and precautions,Most-DILI-Concern,2
+LT01188,darifenacin,0,No match,No-DILI-Concern,2
+LT01189,cephalexin,4,Adverse reactions,Less-DILI-Concern,2
+LT01190,cetirizine,3,Adverse reactions,Less-DILI-Concern,2
+LT01191,solifenacin,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01192,ranolazine,0,No match,No-DILI-Concern,2
+LT01193,etonogestrel,5,Warnings and precautions,Ambiguous DILI-concern,2
+LT01194,fosamprenavir,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01195,aprepitant,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01196,chloramphenicol,0,No match,No-DILI-Concern,2
+LT01198,chlordiazepoxide,5,Adverse reactions,Less-DILI-Concern,2
+LT01199,atazanavir,3,Warnings and precautions,Less-DILI-Concern,2
+LT01200,daptomycin,5,Adverse reactions,Less-DILI-Concern,2
+LT01201,chlormezanone,8,Withdrawn,Most-DILI-Concern,1
+LT01202,bortezomib,7,Warnings and precautions,Most-DILI-Concern,2
+LT01203,anidulafungin,7,Warnings and precautions,Ambiguous DILI-concern,2
+LT01204,rasagiline,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01206,clofarabine,8,Warnings and precautions,Ambiguous DILI-concern,2
+LT01207,chloroquine,3,Adverse reactions,Less-DILI-Concern,1
+LT01208,chlorothiazide,2,Adverse reactions,Less-DILI-Concern,2
+LT01209,cinacalcet,0,No match,No-DILI-Concern,2
+LT01210,conivaptan,0,No match,No-DILI-Concern,2
+LT01212,nebivolol,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01213,chlorthalidone,2,Adverse reactions,Ambiguous DILI-concern,2
+LT01214,erlotinib,8,Warnings and precautions,Most-DILI-Concern,2
+LT01215,alvimopan,0,No match,No-DILI-Concern,2
+LT01216,cidofovir,5,Adverse reactions,Ambiguous DILI-concern,2
+LT01217,ramelteon,0,No match,No-DILI-Concern,2
+LT01218,cimetidine,2,Adverse reactions,Less-DILI-Concern,1
+LT01219,cinchophen,8,Withdrawn,Most-DILI-Concern,1
+LT01220,tipranavir,8,Box warning,Most-DILI-Concern,1
+LT01222,tigecycline,8,Warnings and precautions,Ambiguous DILI-concern,2
+LT01224,cladribine,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01225,clindamycin,3,Warnings and precautions,Less-DILI-Concern,2
+LT01227,mecasermin,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01228,clometacin,8,Withdrawn,Most-DILI-Concern,1
+LT01229,urokinase,0,No match,No-DILI-Concern,2
+LT01230,armodafinil,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01231,clonidine,3,Adverse reactions,Ambiguous DILI-concern,1
+LT01233,nelarabine,4,Adverse reactions,Less-DILI-Concern,2
+LT01235,cloxacillin,3,Warnings and precautions,Less-DILI-Concern,2
+LT01238,lenalidomide,3,Warnings and precautions,Less-DILI-Concern,2
+LT01239,tetrabenazine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01240,lubiprostone,0,No match,No-DILI-Concern,2
+LT01241,sorafenib,8,Warnings and precautions,Most-DILI-Concern,2
+LT01242,varenicline,2,Adverse reactions,Less-DILI-Concern,2
+LT01243,darunavir,8,Warnings and precautions,Most-DILI-Concern,2
+LT01244,aliskiren,0,No match,Less-DILI-Concern,2
+LT01248,dasatinib,4,Adverse reactions,Less-DILI-Concern,2
+LT01249,cyclobenzaprine,5,Adverse reactions,Less-DILI-Concern,2
+LT01250,cyclofenil,8,Withdrawn,Most-DILI-Concern,1
+LT01251,sitagliptin,4,Adverse reactions,Less-DILI-Concern,2
+LT01252,paliperidone,0,No match,No-DILI-Concern,2
+LT01253,cycloserine,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01254,posaconazole,8,Warnings and precautions,Ambiguous DILI-concern,2
+LT01255,cyproheptadine,7,Adverse reactions,Less-DILI-Concern,2
+LT01256,cysteamine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01257,fosaprepitant,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01258,hydroxocobalamin,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01261,temsirolimus,0,No match,No-DILI-Concern,2
+LT01262,tetrahydrobiopterin,0,No match,No-DILI-Concern,2
+LT01263,milnacipran,7,Warnings and precautions,Most-DILI-Concern,2
+LT01265,desipramine,3,Adverse reactions,Ambiguous DILI-concern,1
+LT01266,dexlansoprazole,4,Adverse reactions,Less-DILI-Concern,2
+LT01267,everolimus,4,Adverse reactions,Ambiguous DILI-concern,2
+LT01269,codeine,0,No match,No-DILI-Concern,2
+LT01273,dexrazoxane,4,Adverse reactions,Ambiguous DILI-concern,2
+LT01275,colistimethate,0,No match,No-DILI-Concern,1
+LT01276,benzylpenicilloyl polylysine,0,No match,No-DILI-Concern,2
+LT01279,cephradine,4,Adverse reactions,Ambiguous DILI-concern,2
+LT01281,ceftizoxime,4,Adverse reactions,Ambiguous DILI-concern,2
+LT01285,didanosine,8,Warnings and precautions,Most-DILI-Concern,1
+LT01288,mycophenolate mofetil,3,Adverse reactions,Less-DILI-Concern,2
+LT01289,cefdinir,7,Adverse reactions,Less-DILI-Concern,2
+LT01291,polymyxin b sulfate,0,No match,No-DILI-Concern,2
+LT01292,diltiazem,4,Warnings and precautions,Most-DILI-Concern,2
+LT01294,sterile water,0,No match,No-DILI-Concern,2
+LT01302,disopyramide,2,Adverse reactions,Less-DILI-Concern,2
+LT01303,asparaginase,7,Warnings and precautions,Most-DILI-Concern,2
+LT01305,botulinum toxin type a,0,No match,No-DILI-Concern,2
+LT01306,interferon alfa-2b,8,Warnings and precautions,Most-DILI-Concern,2
+LT01308,dobutamine,0,No match,No-DILI-Concern,1
+LT01309,docetaxel,3,Warnings and precautions,Less-DILI-Concern,1
+LT01311,"interferon alfa-2a, recombinant",8,Warnings and precautions,Most-DILI-Concern,2
+LT01313,doxazosin,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01314,doxepin,4,Adverse reactions,Less-DILI-Concern,2
+LT01315,alteplase,0,No match,No-DILI-Concern,2
+LT01316,epoetin alfa,0,No match,No-DILI-Concern,2
+LT01317,droperidol,0,No match,No-DILI-Concern,2
+LT01318,droxicam,8,Withdrawn,Most-DILI-Concern,1
+LT01319,aldesleukin,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01320,filgrastim,1,Adverse reactions,Ambiguous DILI-concern,2
+LT01321,sargramostim,0,No match,No-DILI-Concern,2
+LT01322,pegaspargase,3,Adverse reactions,Less-DILI-Concern,2
+LT01323,efavirenz,7,Warnings and precautions,Most-DILI-Concern,2
+LT01326,muromonab-cd3,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01328,interferon beta-1b,7,Warnings and precautions,Most-DILI-Concern,2
+LT01330,abciximab,0,No match,No-DILI-Concern,2
+LT01332,interferon beta-1a,7,Warnings and precautions,Most-DILI-Concern,2
+LT01333,esmolol,0,No match,No-DILI-Concern,1
+LT01334,estazolam,0,No match,No-DILI-Concern,2
+LT01336,interferon alfacon-1,7,Warnings and precautions,Most-DILI-Concern,2
+LT01339,oprelvekin,0,No match,No-DILI-Concern,2
+LT01342,estramustine,4,Warnings and precautions,Most-DILI-Concern,2
+LT01344,ethacrynic acid,5,Adverse reactions,Ambiguous DILI-concern,1
+LT01345,ethambutol,8,Warnings and precautions,Most-DILI-Concern,1
+LT01346,basiliximab,0,No match,No-DILI-Concern,2
+LT01347,denileukin diftitox,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01348,ethionamide,3,Warnings and precautions,Less-DILI-Concern,2
+LT01349,palivizumab,0,No match,No-DILI-Concern,2
+LT01350,infliximab,8,Warnings and precautions,Most-DILI-Concern,2
+LT01351,reteplase,0,No match,No-DILI-Concern,2
+LT01352,trastuzumab,0,No match,Less-DILI-Concern,2
+LT01353,etanercept,3,Warnings and precautions,Less-DILI-Concern,2
+LT01354,interferon gamma-1b,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01355,etidronic acid,0,No match,No-DILI-Concern,1
+LT01356,botulinum toxin type b,0,No match,No-DILI-Concern,2
+LT01357,etomidate,0,No match,No-DILI-Concern,2
+LT01359,exifone,8,Withdrawn,Most-DILI-Concern,1
+LT01360,tenecteplase,0,No match,No-DILI-Concern,2
+LT01363,rasburicase,0,No match,No-DILI-Concern,2
+LT01364,alemtuzumab,0,No match,No-DILI-Concern,2
+LT01367,peginterferon alfa-2b,4,Warnings and precautions,Most-DILI-Concern,2
+LT01370,fexofenadine,0,No match,No-DILI-Concern,2
+LT01371,fialuridine,8,Discontinued,Most-DILI-Concern,1
+LT01372,fipexide,8,Withdrawn,Most-DILI-Concern,1
+LT01373,anakinra,0,No match,Less-DILI-Concern,2
+LT01374,darbepoetin alfa,0,No match,Less-DILI-Concern,2
+LT01375,flecainide,7,Adverse reactions,Less-DILI-Concern,2
+LT01376,peginterferon alfa-2a,7,Warnings and precautions,Ambiguous DILI-concern,2
+LT01377,omalizumab,0,No match,No-DILI-Concern,2
+LT01378,ibritumomab tiuxetan,0,No match,No-DILI-Concern,2
+LT01380,pegfilgrastim,0,No match,No-DILI-Concern,2
+LT01381,flucytosine,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01382,fludarabine,0,No match,No-DILI-Concern,2
+LT01384,flumazenil,0,No match,No-DILI-Concern,2
+LT01387,adalimumab,7,Adverse reactions,Less-DILI-Concern,2
+LT01389,cetuximab,0,No match,No-DILI-Concern,2
+LT01390,bevacizumab,0,No match,No-DILI-Concern,2
+LT01392,palifermin,0,No match,No-DILI-Concern,2
+LT01393,natalizumab,5,Warnings and precautions,Most-DILI-Concern,2
+LT01394,flurazepam,4,Adverse reactions,Less-DILI-Concern,2
+LT01396,fluvoxamine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01397,foscarnet,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01398,fosfomycin,6,Adverse reactions,Less-DILI-Concern,2
+LT01399,fosinopril,3,Adverse reactions,Less-DILI-Concern,2
+LT01400,fosphenytoin,8,Warnings and precautions,Most-DILI-Concern,2
+LT01401,galsulfase,0,No match,No-DILI-Concern,2
+LT01402,abatacept,0,No match,Less-DILI-Concern,2
+LT01404,alglucosidase alfa,0,No match,No-DILI-Concern,2
+LT01406,ganciclovir,7,Adverse reactions,Ambiguous DILI-concern,1
+LT01407,gemcitabine,8,Warnings and precautions,Most-DILI-Concern,2
+LT01408,panitumumab,0,No match,No-DILI-Concern,2
+LT01409,idursulfase,0,No match,No-DILI-Concern,2
+LT01412,certolizumab pegol,4,Adverse reactions,Ambiguous DILI-concern,2
+LT01414,eculizumab,0,No match,No-DILI-Concern,2
+LT01415,rilonacept,0,No match,No-DILI-Concern,2
+LT01416,ustekinumab,0,No match,No-DILI-Concern,2
+LT01417,romiplostim,0,No match,No-DILI-Concern,2
+LT01419,golimumab,8,Adverse reactions,Ambiguous DILI-concern,2
+LT01421,ofatumumab,0,No match,No-DILI-Concern,2
+LT01422,guanfacine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01426,heparin sodium,3,Adverse reactions,Less-DILI-Concern,2
+LT01433,hydrochlorothiazide,2,Adverse reactions,Less-DILI-Concern,2
+LT01437,hydroxyzine,0,No match,No-DILI-Concern,1
+LT01440,idarubicin,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01442,antithymocyte globulin,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01444,indapamide,5,Adverse reactions,Ambiguous DILI-concern,2
+LT01446,indinavir,8,Warnings and precautions,Ambiguous DILI-concern,1
+LT01454,iodipamide meglumine,0,No match,No-DILI-Concern,2
+LT01466,irinotecan,3,Adverse reactions,Less-DILI-Concern,2
+LT01468,l-methionine,0,No match,No-DILI-Concern,2
+LT01469,isocarboxazid,5,Warnings and precautions,Ambiguous DILI-concern,1
+LT01475,isradipine,3,Adverse reactions,Less-DILI-Concern,2
+LT01477,kanamycin,0,No match,No-DILI-Concern,1
+LT01479,riboflavin,0,No match,No-DILI-Concern,2
+LT01481,lamotrigine,7,Warnings and precautions,Most-DILI-Concern,2
+LT01486,l-carnitine,0,No match,No-DILI-Concern,1
+LT01488,levofloxacin,8,Warnings and precautions,Most-DILI-Concern,2
+LT01489,levonorgestrel,0,No match,No-DILI-Concern,2
+LT01491,lincomycin,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01492,lisinopril,3,Adverse reactions,Less-DILI-Concern,2
+LT01497,loracarbef,3,Adverse reactions,Less-DILI-Concern,2
+LT01498,loratadine,0,No match,No-DILI-Concern,2
+LT01499,losartan,4,Adverse reactions,Less-DILI-Concern,2
+LT01501,loxapine,5,Adverse reactions,Ambiguous DILI-concern,2
+LT01503,maprotiline,5,Adverse reactions,Ambiguous DILI-concern,1
+LT01508,mebanazine,8,Withdrawn,Most-DILI-Concern,1
+LT01509,mechlorethamine,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01511,meclofenamic acid,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01513,medroxyprogesterone,2,Adverse reactions,Ambiguous DILI-concern,2
+LT01514,mefloquine,7,Adverse reactions,Less-DILI-Concern,2
+LT01516,vitamin e,0,No match,No-DILI-Concern,2
+LT01517,melphalan,5,Adverse reactions,Less-DILI-Concern,2
+LT01520,mephenytoin,5,Adverse reactions,Ambiguous DILI-concern,2
+LT01521,meprobamate,0,No match,No-DILI-Concern,2
+LT01525,meropenem,3,Warnings and precautions,Less-DILI-Concern,2
+LT01526,mesna,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01527,mesoridazine,5,Adverse reactions,Ambiguous DILI-concern,2
+LT01532,methazolamide,7,Adverse reactions,Less-DILI-Concern,2
+LT01537,methoxsalen,3,Warnings and precautions,Less-DILI-Concern,2
+LT01545,methylphenidate,3,Adverse reactions,Less-DILI-Concern,2
+LT01547,methylscopolamine bromide,0,No match,No-DILI-Concern,2
+LT01549,metoclopramide,5,Adverse reactions,Less-DILI-Concern,2
+LT01553,mexiletine,3,Box warning,Most-DILI-Concern,1
+LT01557,midazolam,0,No match,No-DILI-Concern,2
+LT01558,midodrine,0,No match,No-DILI-Concern,2
+LT01560,mirtazapine,3,Warnings and precautions,Less-DILI-Concern,2
+LT01564,mitotane,0,No match,No-DILI-Concern,2
+LT01565,mitoxantrone,3,Warnings and precautions,Less-DILI-Concern,2
+LT01567,moexipril,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01571,moricizine,5,Adverse reactions,Ambiguous DILI-concern,2
+LT01574,moxisylyte,8,Withdrawn,Most-DILI-Concern,1
+LT01580,folic acid,0,No match,No-DILI-Concern,1
+LT01581,nabumetone,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01582,nadolol,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01583,nafcillin,3,Warnings and precautions,Less-DILI-Concern,2
+LT01586,nalbuphine,0,No match,No-DILI-Concern,2
+LT01587,nalidixic acid,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01588,nalmefene hydrochloride,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01589,esomeprazole Sodium,4,Adverse reactions,Less-DILI-Concern,2
+LT01594,nialamide,8,Withdrawn,Most-DILI-Concern,1
+LT01595,nicardipine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01600,nilutamide,8,Warnings and precautions,Most-DILI-Concern,2
+LT01601,nimodipine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01602,niperotidine,8,Withdrawn,Most-DILI-Concern,1
+LT01608,nitroglycerin,0,No match,No-DILI-Concern,2
+LT01611,nomifensine,8,Withdrawn,Most-DILI-Concern,1
+LT01614,norfloxacin,3,Warnings and precautions,Less-DILI-Concern,2
+LT01615,nortriptyline,8,Warnings and precautions,Most-DILI-Concern,1
+LT01618,octreotide,2,Warnings and precautions,Less-DILI-Concern,2
+LT01619,ondansetron,7,Adverse reactions,Less-DILI-Concern,2
+LT01620,ofloxacin,3,Warnings and precautions,Less-DILI-Concern,2
+LT01623,diphenoxylate,0,No match,No-DILI-Concern,2
+LT01624,oxacillin,3,Warnings and precautions,Less-DILI-Concern,2
+LT01629,ambenonium,0,No match,No-DILI-Concern,2
+LT01637,papaverine,5,Warnings and precautions,Most-DILI-Concern,2
+LT01644,penbutolol,0,No match,No-DILI-Concern,1
+LT01646,penicillin g,3,Adverse reactions,Less-DILI-Concern,2
+LT01648,penicillin v,0,No match,No-DILI-Concern,2
+LT01650,pentazocine,0,No match,No-DILI-Concern,2
+LT01651,pentostatin,3,Box warning,Most-DILI-Concern,2
+LT01652,pentoxifylline,5,Adverse reactions,Ambiguous DILI-concern,2
+LT01655,perphenazine,3,Warnings and precautions,Less-DILI-Concern,2
+LT01657,phenelzine,3,Adverse reactions,Less-DILI-Concern,2
+LT01666,ephedrine,0,No match,No-DILI-Concern,2
+LT01671,pilocarpine,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01672,pimozide,0,No match,No-DILI-Concern,2
+LT01673,pindolol,0,No match,No-DILI-Concern,2
+LT01675,piperacillin,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01679,piroxicam,3,Warnings and precautions,Less-DILI-Concern,1
+LT01680,pirprofen,8,Withdrawn,Most-DILI-Concern,1
+LT01684,salsalate,3,Warnings and precautions,Less-DILI-Concern,2
+LT01688,polythiazide,2,Adverse reactions,Ambiguous DILI-concern,2
+LT01698,probenecid,6,Adverse reactions,Ambiguous DILI-concern,2
+LT01699,procainamide,4,Adverse reactions,Less-DILI-Concern,2
+LT01705,propafenone,3,Adverse reactions,Less-DILI-Concern,2
+LT01706,propranolol,3,Warnings and precautions,Ambiguous DILI-concern,1
+LT01708,propofol,3,Adverse reactions,Less-DILI-Concern,2
+LT01713,pyrantel,0,No match,No-DILI-Concern,2
+LT01716,pyrimethamine,3,Warnings and precautions,Less-DILI-Concern,2
+LT01721,quazepam,0,No match,No-DILI-Concern,2
+LT01723,quinapril,3,Adverse reactions,Less-DILI-Concern,2
+LT01725,quinidine,3,Adverse reactions,Less-DILI-Concern,2
+LT01726,ramipril,7,Adverse reactions,Less-DILI-Concern,2
+LT01729,reserpine,0,No match,No-DILI-Concern,2
+LT01730,ribavirin,7,Adverse reactions,Ambiguous DILI-concern,1
+LT01731,riluzole,8,Warnings and precautions,Most-DILI-Concern,2
+LT01735,risperidone,3,Adverse reactions,Less-DILI-Concern,2
+LT01737,ritonavir,8,Warnings and precautions,Most-DILI-Concern,1
+LT01746,saquinavir,3,Warnings and precautions,Less-DILI-Concern,1
+LT01749,selegiline,0,No match,No-DILI-Concern,2
+LT01757,spectinomycin,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01766,succimer,2,Warnings and precautions,Less-DILI-Concern,2
+LT01779,sumatriptan,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01785,temazepam,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01786,teniposide,3,Warnings and precautions,Less-DILI-Concern,2
+LT01787,terazosin,0,No match,No-DILI-Concern,2
+LT01804,thiotepa,3,Warnings and precautions,Less-DILI-Concern,2
+LT01805,thiothixene,2,Warnings and precautions,Ambiguous DILI-concern,2
+LT01815,timolol,5,Adverse reactions,Ambiguous DILI-concern,2
+LT01816,sulcotidil,8,Withdrawn,Most-DILI-Concern,1
+LT01818,tiopronin,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01820,tolmetin,3,Adverse reactions,Less-DILI-Concern,2
+LT01822,tolrestat,8,Withdrawn,Most-DILI-Concern,1
+LT01824,topotecan,0,No match,No-DILI-Concern,2
+LT01827,tramadol,7,Adverse reactions,Ambiguous DILI-concern,2
+LT01828,trandolapril,4,Adverse reactions,Less-DILI-Concern,2
+LT01829,tranylcypromine,3,Adverse reactions,Less-DILI-Concern,2
+LT01830,trazodone,5,Adverse reactions,Less-DILI-Concern,1
+LT01833,triamterene,5,Adverse reactions,Less-DILI-Concern,2
+LT01834,triazolam,4,Adverse reactions,Ambiguous DILI-concern,2
+LT01839,trihexyphenidyl,0,No match,No-DILI-Concern,2
+LT01840,trimethadione,5,Warnings and precautions,Ambiguous DILI-concern,2
+LT01841,trimethobenzamide,5,Adverse reactions,Ambiguous DILI-concern,2
+LT01842,trimethoprim,4,Adverse reactions,Less-DILI-Concern,2
+LT01843,trimetrexate,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01844,trimipramine,2,Adverse reactions,Ambiguous DILI-concern,2
+LT01846,fenclozic acid,8,Withdrawn,Most-DILI-Concern,1
+LT01849,ebrotidine,8,Withdrawn,Most-DILI-Concern,1
+LT01853,aceclofenac,0,No match,Less-DILI-Concern,2
+LT01854,nitrefazole,8,Withdrawn,Most-DILI-Concern,1
+LT01855,ursodeoxycholic acid,0,Warnings and precautions,Ambiguous DILI-concern,2
+LT01856,valaciclovir,3,Adverse reactions,Less-DILI-Concern,2
+LT01857,valsartan,3,Adverse reactions,Less-DILI-Concern,2
+LT01858,tetrabamate,8,Withdrawn,Most-DILI-Concern,1
+LT01862,vincristine,8,Adverse reactions,Less-DILI-Concern,2
+LT01867,xenazoic acid,8,Withdrawn,Most-DILI-Concern,1
+LT01869,zafirlukast,8,Warnings and precautions,Most-DILI-Concern,1
+LT01870,falnidamol,8,Discontinued,Most-DILI-Concern,1
+LT01874,zimelidine,8,Withdrawn,Most-DILI-Concern,1
+LT01888,caffeine,0,No match,No-DILI-Concern,2
+LT01889,capreomycin,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01905,lidocaine,0,No match,No-DILI-Concern,2
+LT01908,memantine,7,Adverse reactions,Less-DILI-Concern,2
+LT01916,pamidronate,3,Adverse reactions,Ambiguous DILI-concern,2
+LT01923,quinine,3,Warnings and precautions,Less-DILI-Concern,2
+LT01928,rosuvastatin,3,Warnings and precautions,Less-DILI-Concern,2
+LT01933,sulfamethizole,0,No match,Less-DILI-Concern,2
+LT01944,telithromycin,8,Warnings and precautions,Most-DILI-Concern,2
+LT01953,follitropin alfa/beta,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT01968,entacapone,0,No match,Less-DILI-Concern,2
+LT01971,valdecoxib,3,Warnings and precautions,Less-DILI-Concern,2
+LT01972,dexpanthenol,0,No match,No-DILI-Concern,2
+LT01974,scopolamine,0,No match,No-DILI-Concern,2
+LT01980,pyridoxine,0,No match,No-DILI-Concern,2
+LT01981,thiamine,0,No match,No-DILI-Concern,2
+LT02002,cyanocobalamin,0,No match,No-DILI-Concern,1
+LT02004,cromoglicate,3,Adverse reactions,Less-DILI-Concern,1
+LT02007,montelukast,3,Adverse reactions,Less-DILI-Concern,1
+LT02008,moxifloxacin,8,Adverse reactions,Less-DILI-Concern,2
+LT02009,vitamin c,0,No match,No-DILI-Concern,2
+LT02010,sorbitol,0,No match,No-DILI-Concern,2
+LT02018,capecitabine,2,Warnings and precautions,Ambiguous DILI-concern,2
+LT02019,leuprolide,3,Adverse reactions,Less-DILI-Concern,2
+LT02024,eletriptan,3,Adverse reactions,Ambiguous DILI-concern,2
+LT02026,hydroxychloroquine,7,Adverse reactions,Less-DILI-Concern,2
+LT02031,fluoxymesterone,8,Warnings and precautions,Ambiguous DILI-concern,2
+LT02033,ximelagatran,8,Withdrawn,Most-DILI-Concern,1
+LT02035,duloxetine,8,Warnings and precautions,Most-DILI-Concern,2
+LT02037,carisoprodol,0,No match,No-DILI-Concern,2
+LT02041,dicloxacillin,3,Warnings and precautions,Less-DILI-Concern,2
+LT02043,estrone,2,Warnings and precautions,Ambiguous DILI-concern,2
+LT02046,metolazone,3,Adverse reactions,Ambiguous DILI-concern,2
+LT02055,pamabrom,0,No match,No-DILI-Concern,2
+LT02056,dextromethorphan,0,No match,No-DILI-Concern,2
+LT02059,bacitracin,0,No match,No-DILI-Concern,1
+LT02061,paromomycin,0,No match,No-DILI-Concern,1
+LT02063,telmisartan,3,Adverse reactions,Less-DILI-Concern,2
+LT02064,gallium nitrate,3,Adverse reactions,Ambiguous DILI-concern,2
+LT02067,ammonium chloride,0,No match,No-DILI-Concern,2
+LT02070,amiloride,3,Adverse reactions,Less-DILI-Concern,2
+LT02072,methysergide,0,No match,No-DILI-Concern,1
+LT02074,methylergonovine,0,No match,No-DILI-Concern,2
+LT02076,brompheniramine,0,No match,No-DILI-Concern,2
+LT02077,l-arginine,0,No match,No-DILI-Concern,2
+LT02081,pyridostigmine,0,No match,No-DILI-Concern,2
+LT02082,phenoxybenzamine,0,No match,No-DILI-Concern,1
+LT02084,oxybutynin,0,No match,No-DILI-Concern,1
+LT02085,orphenadrine,0,No match,No-DILI-Concern,2
+LT02086,orciprenaline,0,No match,No-DILI-Concern,1
+LT02087,loperamide,0,No match,No-DILI-Concern,2
+LT02089,isoxsuprine,0,No match,No-DILI-Concern,2
+LT02092,glafenine,8,Withdrawn,Most-DILI-Concern,1
+LT02093,edrophonium,0,No match,No-DILI-Concern,1
+LT02096,acetylcholine chloride,0,No match,No-DILI-Concern,2
+LT02100,amphetamine,0,No match,Less-DILI-Concern,2
+LT02110,mepazine,8,Withdrawn,Most-DILI-Concern,1
+LT02121,nandrolone decanoate,7,Warnings and precautions,Most-DILI-Concern,2
+LT02166,auranofin,3,Warnings and precautions,Less-DILI-Concern,2
+LT02171,simethicone,0,No match,No-DILI-Concern,2
+LT02189,betaine,0,No match,No-DILI-Concern,1
+LT02190,bisacodyl,0,No match,No-DILI-Concern,2
+LT02192,leucovorin,0,No match,No-DILI-Concern,2
+LT02203,ixabepilone,7,Adverse reactions,Ambiguous DILI-concern,2
+LT02204,lapatinib,8,Box warning,Most-DILI-Concern,1
+LT02210,oseltamivir,3,Adverse reactions,Ambiguous DILI-concern,1
+LT02213,alaproclate,8,Withdrawn,Most-DILI-Concern,1
+LT02216,orlistat,8,Warnings and precautions,Most-DILI-Concern,1
+LT02217,apomorphine,0,No match,No-DILI-Concern,2
+LT02218,dihydroergotamine,0,No match,No-DILI-Concern,1
+LT02219,procyclidine,0,No match,No-DILI-Concern,1
+LT02222,clemastine,0,No match,No-DILI-Concern,1
+LT02224,tenofovir,3,Warnings and precautions,Less-DILI-Concern,1
+LT02269,norethindrone acetate,0,No match,No-DILI-Concern,2
+LT02329,exametazime,0,No match,No-DILI-Concern,2
+LT02330,erythropoietin,0,No match,No-DILI-Concern,2
+LT02331,Argipressin,0,No match,No-DILI-Concern,2
+LT02337,sodium bicarbonate,0,No match,No-DILI-Concern,2
+LT02340,plerixafor,0,No match,No-DILI-Concern,2
+LT02343,4-phenylbutyric acid,4,Adverse reactions,Ambiguous DILI-concern,2
+LT02346,clindamycin-2-phosphate,3,Warnings and precautions,Ambiguous DILI-concern,2
+LT02356,tyramine,0,No match,No-DILI-Concern,2
+LT02382,Hetastarch,0,No match,No-DILI-Concern,2
+LT02384,imiglucerase,0,No match,No-DILI-Concern,2
+LT02385,agalsidase beta,0,No match,No-DILI-Concern,2
+LT02404,gadolinium ethoxybenzyl DTPA,0,No match,No-DILI-Concern,2
+LT02424,"Estrogens, Conjugated",1,Adverse reactions,Ambiguous DILI-concern,2
+LT02427,haloperidol decanoate,3,Adverse reactions,Ambiguous DILI-concern,2
+LT02432,canakinumab,3,Adverse reactions,Less-DILI-Concern,2
+LT02437,Levoleucovorin,0,No match,No-DILI-Concern,2
+LT02442,levomefolate calcium,0,No match,No-DILI-Concern,2
+LT02449,sitaxsentan,8,Withdrawn,Most-DILI-Concern,2
+LT02907,laronidase,4,Adverse reactions,Ambiguous DILI-concern,2
+LT02909,dexmethylphenidate,7,Adverse reactions,Less-DILI-Concern,2
+LT02913,hyaluronidase recombinant human,0,No match,No-DILI-Concern,2
+LT02929,escitalopram,7,Adverse reactions,Less-DILI-Concern,2

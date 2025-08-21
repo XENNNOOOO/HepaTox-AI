@@ -1,0 +1,10 @@
+pandas
+openpyxl
+rdkit-pypi
+cirpy
+tqdm
+scikit-learn
+xgboost
+matplotlib
+seaborn
+jupyter

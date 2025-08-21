@@ -1,14 +1,14 @@
-# HepatoTox-AI: Predicting Drug-Induced Liver Injury
+# HepaTox-AI: Predicting Drug-Induced Liver Injury
 
-An AI-powered toolkit for predicting Drug-Induced Liver Injury (DILI) using modern machine learning and graph neural networks.
+An AI-powered toolkit for predicting Drug-Induced Liver Injury (DILI) using machine learning and graph neural networks.
 
 ---
 
 ## Introduction: The Silent Threat in Drug Development
 
-One of the most significant challenges in pharmacology is predicting adverse drug reactions before a new medication reaches patients. Among the most severe and common reasons for a drug to fail in clinical trials or be withdrawn from the market is **Drug-Induced Liver Injury (DILI)**. The liver, as the body's primary metabolic engine, is uniquely vulnerable to damage from new chemical compounds. Predicting DILI early is a critical mission that can save billions of dollars in development costs, accelerate the creation of safer medicines, and, most importantly, protect patient health.
+One of the most significant challenges in pharmacology is predicting adverse drug reactions before a new medication reaches patients. Among the most severe and common reasons for a drug to fail in clinical trials or be withdrawn from the market is **Drug-Induced Liver Injury (DILI)**. The liver, as the body's primary metabolic engine, is uniquely vulnerable to damage from new chemical compounds. Predicting DILI early is a critical mission that can save development costs, accelerate the creation of safer medicines, and, most importantly, protect patient health.
 
-This project, **HepatoTox-AI**, aims to address this challenge by building a state-of-the-art machine learning model that can predict a drug's potential to cause liver injury based solely on its molecular structure. We will move beyond traditional methods by implementing advanced Graph Neural Network (GNN) architectures and focusing on creating an **explainable AI (XAI)** that not only predicts risk but also helps us understand the underlying chemical reasons for that risk.
+This project, **HepaTox-AI**, aims to address this challenge by building a machine learning model that can predict a drug's potential to cause liver injury based solely on its molecular structure. We will move beyond traditional methods by implementing advanced Graph Neural Network (GNN) architectures and focusing on creating an **explainable AI (XAI)** that not only predicts risk but also helps us understand the underlying chemical reasons for that risk.
 
 ---
 

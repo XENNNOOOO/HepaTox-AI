@@ -1,4 +1,4 @@
-# HepaTox-AI: Predicting Drug-Induced Liver Injury
+# HepaTox: Predicting Drug-Induced Liver Injury
 
 An AI-powered toolkit for predicting Drug-Induced Liver Injury (DILI) using machine learning and graph neural networks.
 
@@ -8,7 +8,7 @@ An AI-powered toolkit for predicting Drug-Induced Liver Injury (DILI) using mach
 
 One of the most significant challenges in pharmacology is predicting adverse drug reactions before a new medication reaches patients. Among the most severe and common reasons for a drug to fail in clinical trials or be withdrawn from the market is **Drug-Induced Liver Injury (DILI)**. The liver, as the body's primary metabolic engine, is uniquely vulnerable to damage from new chemical compounds. Predicting DILI early is a critical mission that can save development costs, accelerate the creation of safer medicines, and, most importantly, protect patient health.
 
-This project, **HepaTox-AI**, aims to address this challenge by building a machine learning model that can predict a drug's potential to cause liver injury based solely on its molecular structure. We will move beyond traditional methods by implementing advanced Graph Neural Network (GNN) architectures and focusing on creating an **explainable AI (XAI)** that not only predicts risk but also helps us understand the underlying chemical reasons for that risk.
+This project, **HepaTox**, was undertaken to address this challenge by building and comparing machine learning models that can predict a drug's potential to cause liver injury based solely on its molecular structure.
 
 ---
 
@@ -26,13 +26,58 @@ The DILIrank dataset provides a comprehensive list of FDA-approved drugs, each a
 * **Homepage:** [Drug-Induced Liver Injury Rank (DILIrank) Dataset](https://www.fda.gov/science-research/liver-toxicity-knowledge-base-ltkb/drug-induced-liver-injury-rank-dilirank-dataset)
 * **Citation:** Chen, M., Suzuki, A., Thakkar, S. et al. DILIrank: the FDA-approved drug database for ranking drug-induced liver injury severity. *Hepatology* 64, 1579–1582 (2016).
 
-### Dataset Contents
+---
 
-The dataset includes the following key columns that we will be using:
+## Project Execution & Findings
 
-| Column Name     | Description                                                                                             |
-| :-------------- | :------------------------------------------------------------------------------------------------------ |
-| `LTKBID`        | A unique identifier for the compound within the Liver Toxicity Knowledge Base.                          |
-| `Compound Name` | The common name of the drug.                                                                            |
-| `Severity Class`| The drug's DILI classification (e.g., "No-DILI," "Less-DILI," "Most-DILI"). **This is our target label.** |
-| `vDILIConcern`  | A simplified, three-level concern classification: "No," "Less," or "Most" concern for DILI.               |
+The development followed a rigorous, iterative process to find the best possible model.
+
+### Phase 1: Baseline Model (RandomForest)
+
+We began by establishing a strong baseline. We converted the drug molecules into **molecular fingerprints** (numerical vectors representing chemical features) and trained a **RandomForest Classifier**. This simple but powerful model proved to be highly effective, achieving an ROC AUC score of **0.761**.
+
+### Phase 2: Graph Neural Network (GNN) Exploration
+
+Next, we explored a more advanced architecture, a **Graph Attention Network (GAT)**, to see if learning directly from the 2D molecular graph structure could improve performance. Through several rounds of fine-tuning (improving atom/bond features, adjusting the model, and weighting the loss function), the GNN learned successfully but did not surpass the baseline, achieving a peak ROC AUC of **0.611**.
+
+### Phase 3: Hybrid Model
+
+Our final experiment involved creating a **hybrid model**. We used the trained GNN as a sophisticated feature extractor to create "graph embeddings" and fed these, along with the original fingerprints, into the RandomForest classifier. While this approach showed promise, it also did not outperform our initial baseline.
+
+---
+
+## Final Results & Conclusion
+
+After a thorough and systematic comparison, the conclusion is clear:
+
+| Metric      | RandomForest (Baseline) | GNN-Only | Tuned Hybrid Model |
+| :---------- | :---------------------- | :------- | :----------------- |
+| **ROC AUC** | **0.761** | 0.609    | 0.645              |
+
+The **RandomForest Classifier trained on molecular fingerprints is the winning model**. This project demonstrates a classic machine learning principle: the most complex model is not always the best. For this dataset, a robust, feature-based approach was the most effective strategy.
+
+---
+
+## How to Use the Final Model
+
+The project has been structured into a reusable command-line tool.
+
+**1. Install Dependencies:**
+Ensure all required libraries are installed by running:
+```bash
+pip install -r requirements.txt
+
+**2. Process Raw Data:**
+Run the data processing script to generate the clean data.
+'''bash
+python src/data_processing.py
+
+**3. Train the Final Model:**
+Run the training script to train the winning RandomForest model on the full dataset and save it.
+'''bash
+python src/train.py
+
+**4. Make a Prediction:**
+Use the predict.py script to get a DILI risk prediction for any drug by name.
+'''bash
+python src/predict.py "Aspirin"

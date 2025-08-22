@@ -38,7 +38,7 @@ We began by establishing a strong baseline. We converted the drug molecules into
 
 ### Phase 2: Graph Neural Network (GNN) Exploration
 
-Next, we explored a more advanced architecture, a **Graph Attention Network (GAT)**, to see if learning directly from the 2D molecular graph structure could improve performance. Through several rounds of fine-tuning (improving atom/bond features, adjusting the model, and weighting the loss function), the GNN learned successfully but did not surpass the baseline, achieving a peak ROC AUC of **0.611**.
+Next, we explored a more advanced architecture, a **Graph Attention Network (GAT)**, to see if learning directly from the 2D molecular graph structure could improve performance. Through several rounds of fine-tuning (improving atom/bond features, adjusting the model, and weighting the loss function), the GNN learned successfully but did not surpass the baseline, achieving a peak ROC AUC of **0.609**.
 
 ### Phase 3: Hybrid Model
 
@@ -52,7 +52,7 @@ After a thorough and systematic comparison, the conclusion is clear:
 
 | Metric      | RandomForest (Baseline) | GNN-Only | Tuned Hybrid Model |
 | :---------- | :---------------------- | :------- | :----------------- |
-| **ROC AUC** | **0.761** | 0.609    | 0.645              |
+| **ROC AUC** | **0.761** | 0.609    | 0.677              |
 
 The **RandomForest Classifier trained on molecular fingerprints is the winning model**. This project demonstrates a classic machine learning principle: the most complex model is not always the best. For this dataset, a robust, feature-based approach was the most effective strategy.
 
@@ -64,20 +64,16 @@ The project has been structured into a reusable command-line tool.
 
 **1. Install Dependencies:**
 Ensure all required libraries are installed by running:
-```bash
 pip install -r requirements.txt
 
 **2. Process Raw Data:**
 Run the data processing script to generate the clean data.
-'''bash
 python src/data_processing.py
 
 **3. Train the Final Model:**
 Run the training script to train the winning RandomForest model on the full dataset and save it.
-'''bash
 python src/train.py
 
 **4. Make a Prediction:**
 Use the predict.py script to get a DILI risk prediction for any drug by name.
-'''bash
 python src/predict.py "Aspirin"

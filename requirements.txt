@@ -9,3 +9,5 @@ seaborn
 jupyter
 torch
 torch-geometric
+Pillow
+cairosvg

@@ -79,5 +79,4 @@ def main():
         print("-----------------------")
 
 if __name__ == '__main__':
-    # This block runs when the script is executed from the command line
     main()

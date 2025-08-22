@@ -64,16 +64,21 @@ The project has been structured into a reusable command-line tool.
 
 **1. Install Dependencies:**
 Ensure all required libraries are installed by running:
+
 pip install -r requirements.txt
 
 **2. Process Raw Data:**
 Run the data processing script to generate the clean data.
+
 python src/data_processing.py
 
 **3. Train the Final Model:**
 Run the training script to train the winning RandomForest model on the full dataset and save it.
+
 python src/train.py
 
-**4. Make a Prediction:**
-Use the predict.py script to get a DILI risk prediction for any drug by name.
-python src/predict.py "Aspirin"
+**4. Launch the GUI Predictor:**
+Run the gui.py script to open the application. Enter a drug name and click "Predict Risk" to see the results.
+
+python3 gui.py
+

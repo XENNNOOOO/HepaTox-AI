@@ -11,4 +11,5 @@ torch
 torch-geometric
 Pillow
 cairosvg
+xgboost
 optuna

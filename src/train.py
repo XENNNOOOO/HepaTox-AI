@@ -13,7 +13,7 @@ import ast
 
 PROCESSED_DATA_PATH = 'data/processed/dili_data_clean.csv'
 MODEL_OUTPUT_DIR = 'models'
-MODEL_PATH = os.path.join(MODEL_OUTPUT_DIR, 'ensemble_model.pkl')
+MODEL_PATH = os.path.join(MODEL_OUTPUT_DIR, 'random_forest_dili_model.pkl')
 
 def train_final_ensemble_model(data_path, model_save_path):
     """

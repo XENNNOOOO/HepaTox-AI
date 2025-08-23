@@ -9,7 +9,7 @@ import numpy as np
 import argparse
 from data_processing import get_smiles_from_name, generate_fingerprint
 
-MODEL_PATH = 'models/random_forest_dili_model.pkl'
+MODEL_PATH = 'models/ensemble_model.pkl'
 
 def predict_dili_risk(compound_name, model):
     """

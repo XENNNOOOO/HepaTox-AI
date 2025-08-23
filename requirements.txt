@@ -11,3 +11,4 @@ torch
 torch-geometric
 Pillow
 cairosvg
+optuna

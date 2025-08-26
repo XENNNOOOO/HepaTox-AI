@@ -13,3 +13,5 @@ Pillow
 cairosvg
 xgboost
 optuna
+google.generativeai
+python-dotenv

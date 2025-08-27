@@ -12,10 +12,6 @@ This project, **HepaTox**, was undertaken to address this challenge by building 
 
 ---
 
-## The DILIrank Dataset
-
-This project utilized two key datasets to progressively build a state-of-the-art model.
-
 ### Dataset Reference
 1. DILIRank Dataset
 

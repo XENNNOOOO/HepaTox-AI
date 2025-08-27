@@ -26,11 +26,11 @@ The initial foundation of the model was the DILIrank Dataset, a publicly availab
 
 2. InterDILI Dataset
 
-To achieve state-of-the-art performance, the project transitioned to the HepaTox Dataset, a large-scale database from recent academic research, which was sourced for this project.
+To achieve state-of-the-art performance, the project transitioned to the interDILI Dataset, a large-scale database from recent academic research, which was sourced for this project. Containing over 22,000 compounds, this larger dataset was crucial for training a more accurate and generalizable final model.
 * **Source:** BMC Journal of Cheminformatics
 * **Homepage:** https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00796-8
 * **Citation:** Lee, S., Yoo, S. InterDILI: interpretable prediction of drug-induced liver injury through permutation feature importance and attention mechanism. J Cheminform 16, 1 (2024). https://doi.org/10.1186/s13321-023-00796-8
-* **Description**: Containing over 22,000 compounds, this larger dataset was crucial for training a more accurate and generalizable final model.
+
 ---
 
 ## Project Execution & Findings

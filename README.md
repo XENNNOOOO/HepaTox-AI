@@ -21,11 +21,18 @@ The foundation of our model is the **DILIrank Dataset**, a publicly available, e
 The DILIrank dataset provides a comprehensive list of FDA-approved drugs, each assigned a DILI severity and concern classification based on a thorough evaluation of clinical data and published literature. This expert labeling is what makes it possible to train a supervised machine learning model. The dataset contains 1,036 drug records, which, due to their high quality and information density, are sufficient for building a robust predictive model.
 
 ### Dataset Reference
-
+1. DILIRank Dataset
+The initial foundation of the model was the DILIrank Dataset, a publicly available, expert-curated resource from the U.S. Food and Drug Administration (FDA). This dataset, containing over 1,000 compounds, was used to establish strong baseline models.
 * **Source:** U.S. Food and Drug Administration (FDA)
 * **Homepage:** [Drug-Induced Liver Injury Rank (DILIrank) Dataset](https://www.fda.gov/science-research/liver-toxicity-knowledge-base-ltkb/drug-induced-liver-injury-rank-dilirank-dataset)
 * **Citation:** Chen, M., Suzuki, A., Thakkar, S. et al. DILIrank: the FDA-approved drug database for ranking drug-induced liver injury severity. *Hepatology* 64, 1579–1582 (2016).
 
+2. InterDILI Dataset
+To achieve state-of-the-art performance, the project transitioned to the HepaTox Dataset, a large-scale database from recent academic research, which was sourced for this project.
+* **Source:** BMC Journal of Cheminformatics
+* **Homepage:** https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00796-8
+* **Citation:** Lee, S., Yoo, S. InterDILI: interpretable prediction of drug-induced liver injury through permutation feature importance and attention mechanism. J Cheminform 16, 1 (2024). https://doi.org/10.1186/s13321-023-00796-8
+* **Description**: Containing over 22,000 compounds, this larger dataset was crucial for training a more accurate and generalizable final model.
 ---
 
 ## Project Execution & Findings
@@ -41,26 +48,28 @@ Strong baselines were established using powerful, feature-based models trained o
 
 ### Phase 2: Graph Neural Network (GNN) Exploration
 
-Next, advanced GNN architectures were explored to determine if learning directly from the 2D molecular graph structure could improve performance.
-
-* **GIN & Deeper GIN:** A Graph Isomorphism Network (GIN) was implemented. While it learned successfully, it did not surpass the baselines. By increasing the model's depth to four layers, its performance improved to a respectable ROC AUC of **0.739**.
-* **AttentiveFP & PNA:** More complex, state-of-the-art architectures were tested. While these models trained successfully, they did not outperform the simpler GNN or the feature-based models on this specific dataset, highlighting that more complexity is not always better.
+Advanced GNN architectures (GIN, PNA) were explored to determine if learning directly from the 2D molecular graph structure could improve performance. While these models learned successfully, they did not surpass the feature-based baselines on the smaller DILIrank dataset.
 
 ### Phase 3: Final Ensemble Model
+The final and most successful phase involved leveraging the large-scale dataset.
 
-The final experiment involved creating a **"committee of experts"** by ensembling the two best-performing models: the tuned RandomForest and the tuned XGBoost. By averaging their predictions, the individual errors were canceled out, creating a final model that was more robust and accurate than either of its components.
+Feature Engineering: A comprehensive set of 28 physicochemical properties was engineered for each of the ~1,800 molecules used from the dataset.
+
+Hybrid Feature Set: These properties were combined with the molecular fingerprints to create a rich, hybrid feature set.
+
+Final Model: The champion XGBoost model was trained on this new, enriched dataset, resulting in a significant performance breakthrough.
 
 ---
 
-## Final Results & Conclusion
+## Results & Conclusion
 
 After a thorough and systematic comparison, the conclusion is clear:
 
-| Metric      | RandomForest | Tuned XGBoost | Deeper GIN | **Ensemble Model** |
+| Metric      | RandomForest | Tuned XGBoost | Ensemble Model | **XGBoost22k Model** |
 | :---------- | :----------- | :------------ | :--------- | :----------------- |
-| **ROC AUC** | 0.761        | 0.765         | 0.739      | **0.768** |
+| **ROC AUC** | 0.761        | 0.765         | 0.768      | **0.849** |
 
-The **Ensemble Model** is the winning architecture. This project demonstrates the power of a systematic, iterative approach. By establishing strong baselines, exploring advanced architectures, and finally combining the strengths of our best models, we successfully built a state-of-the-art predictor that represents the culmination of our research.
+XGBoost22k Model Accuracy: **0.795**
 
 ---
 

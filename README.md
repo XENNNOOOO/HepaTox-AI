@@ -80,17 +80,10 @@ Ensure all required libraries are installed by running:
 
 pip install -r requirements.txt
 
-**2. Process Raw Data:**
-Run the data processing script to generate the clean data.
+**2. Train the Final Model:**
+Run '08_XGBoost22k_Model.ipynb'.
 
-python3 src/data_processing.py
-
-**3. Train the Final Model:**
-Run the training script to train the winning RandomForest model on the full dataset and save it.
-
-python3 src/train.py
-
-**4. Launch the GUI Predictor:**
+**3. Launch the GUI Predictor:**
 Run the gui.py script to open the application. Enter a drug name and click "Predict Risk" to see the results.
 
 python3 gui.py

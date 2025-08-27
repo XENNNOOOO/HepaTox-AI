@@ -14,20 +14,18 @@ This project, **HepaTox**, was undertaken to address this challenge by building 
 
 ## The DILIrank Dataset
 
-The foundation of our model is the **DILIrank Dataset**, a publicly available, expert-curated resource provided by the U.S. Food and Drug Administration (FDA). This dataset is considered a gold standard for DILI research.
-
-### Background
-
-The DILIrank dataset provides a comprehensive list of FDA-approved drugs, each assigned a DILI severity and concern classification based on a thorough evaluation of clinical data and published literature. This expert labeling is what makes it possible to train a supervised machine learning model. The dataset contains 1,036 drug records, which, due to their high quality and information density, are sufficient for building a robust predictive model.
+This project utilized two key datasets to progressively build a state-of-the-art model.
 
 ### Dataset Reference
 1. DILIRank Dataset
+
 The initial foundation of the model was the DILIrank Dataset, a publicly available, expert-curated resource from the U.S. Food and Drug Administration (FDA). This dataset, containing over 1,000 compounds, was used to establish strong baseline models.
 * **Source:** U.S. Food and Drug Administration (FDA)
 * **Homepage:** [Drug-Induced Liver Injury Rank (DILIrank) Dataset](https://www.fda.gov/science-research/liver-toxicity-knowledge-base-ltkb/drug-induced-liver-injury-rank-dilirank-dataset)
 * **Citation:** Chen, M., Suzuki, A., Thakkar, S. et al. DILIrank: the FDA-approved drug database for ranking drug-induced liver injury severity. *Hepatology* 64, 1579–1582 (2016).
 
 2. InterDILI Dataset
+
 To achieve state-of-the-art performance, the project transitioned to the HepaTox Dataset, a large-scale database from recent academic research, which was sourced for this project.
 * **Source:** BMC Journal of Cheminformatics
 * **Homepage:** https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00796-8

@@ -83,7 +83,6 @@ def process_raw_data(input_path, output_path):
     df_clean['smiles'] = df_clean['Compound Name'].progress_apply(get_smiles_from_name)
     
     # Generate Fingerprints 
-    # Temporarily disable RDKit warnings for cleaner output
     lg = RDLogger.logger()
     lg.setLevel(RDLogger.CRITICAL)
     
@@ -93,7 +92,6 @@ def process_raw_data(input_path, output_path):
     # Re-enable RDKit warnings
     lg.setLevel(RDLogger.INFO)
     
-    # Final Cleanup and Save 
     # Drop rows where SMILES or fingerprint could not be generated
     df_final = df_clean.dropna(subset=['smiles', 'fingerprint']).copy()
     
